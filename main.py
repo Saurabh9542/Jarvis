@@ -72,6 +72,3 @@ if __name__ == "__main__":
             time.sleep(3)
     else:
         print("Thanks")
-
-
-# print(dir(pyttsx3))
